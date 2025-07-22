@@ -19,7 +19,7 @@
                   "comment": "For sharing prize deep links"
                }
             ],
-            "paths": ["/location/*", "/prize/*"]
+            "paths": ["*", "/location/*", "/prize/*"]
            }
        ]
    },
