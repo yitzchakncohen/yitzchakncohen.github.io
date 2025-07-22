@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.yumebau.prizehunt.app"],
+             "appIDs": [ "com.yumebau.prizehunt.app", "com.yumebau.prizehunt"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -23,6 +23,6 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "com.yumebau.prizehunt.app" ]
+      "apps": [ "com.yumebau.prizehunt.app", "com.yumebau.prizehunt" ]
    }
 }
