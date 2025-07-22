@@ -2,28 +2,12 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.yumebau.prizehunt.app", "com.yumebau.prizehunt"],
-             "components": [
-               {
-                  "#": "no_universal_links",
-                  "exclude": true,
-                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
-               },
-               {
-                  "/": "/location/*",
-                  "comment": "For sharing location deep links."
-               },
-               {
-                  "/": "/prize/*",
-                  "exclude": true,
-                  "comment": "For sharing prize deep links"
-               }
-            ],
+            "appIDs": [ "6B27SHDF9W.com.yumebau.prizehunt" ],
             "paths": ["*", "/location/*", "/prize/*"]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "com.yumebau.prizehunt.app", "com.yumebau.prizehunt" ]
+      "apps": [ "6B27SHDF9W.com.yumebau.prizehunt" ]
    }
 }
