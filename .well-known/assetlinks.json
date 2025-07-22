@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yumebau.prizehunt",
+    "sha256_cert_fingerprints":
+    ["68:2C:EB:0B:52:B0:17:C4:01:C5:C1:3E:F0:A2:23:74:0D:26:D4:1B:D8:50:AF:33:DB:2E:13:79:8E:68:2E:A7"]
+  }
+}]
