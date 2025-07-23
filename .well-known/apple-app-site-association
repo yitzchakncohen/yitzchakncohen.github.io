@@ -3,7 +3,7 @@
       "details": [
            {
             "appIDs": [ "6B27SHDF9W.com.yumebau.prizehunt" ],
-            "paths": ["*", "/location/*", "/prize/*"]
+            "paths": ["/prizehunt*", "prizehunt/location/*", "prizehunt/prize/*"]
            }
        ]
    },
